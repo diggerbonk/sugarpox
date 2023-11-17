@@ -10,7 +10,7 @@
     margin: 0;
     display: grid;
     grid-template-columns: 1;
-    grid-template-rows: 10% 90%;
+    grid-template-rows: minmax(100px, 10vh) 90%;
     height: 100vh;
     width: 100vw;
     background-color: #000000;
