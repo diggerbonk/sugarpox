@@ -1,2 +1,2 @@
-# sugarpoxwebsite
-Sugar Pox WebSite
+# sugarpox
+Sugar Pox 
