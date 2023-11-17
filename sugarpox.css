@@ -21,18 +21,19 @@
 .top-view {
     grid-column: 1;
     grid-row: 1 / 2;
-    height: 100%;
-    width: 100%;
-    padding: 0vh 2vw;
+    height: 1fr;
+    width: 1fr;
+    padding: 0;
     margin: 0;
 }
 
 .bottom-view {
     grid-column: 1;
     grid-row: 2 / 2;
-    height: 86vh;
-    padding: 0vh 2vw;
+    height: 1fr;
+    width: 1fr;
     margin: 0;
+    padding: 0;
 }
 
 @font-face {
