@@ -9,7 +9,7 @@
     padding: 2vh 2vw;
     margin: 0;
     display: grid;
-    grid-template-columns: 1;
+    grid-template-columns: 1fr;
     grid-template-rows: minmax(100px, 10vh) 1fr;
     height: 100vh;
     width: 100vw;
@@ -20,17 +20,16 @@
     grid-column: 1;
     grid-row: 1 / 2;
     height: 100%;
-    padding: 1vh 1vw;
+    width: 100%;
+    padding: 0vh 0vw;
     margin: 0;
-    overflow: hidden;
-    text-align: left;
 }
 
 .bottom-view {
     grid-column: 1;
     grid-row: 2 / 2;
-    height: 88vh;
-    padding: 1vh 1vw;
+    height: 86vh;
+    padding: 0vh 0vw;
     margin: 0;
 }
 
