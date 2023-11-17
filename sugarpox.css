@@ -4,12 +4,32 @@
   margin-right: auto;
   width: 90%;
 }
+
 .full-view {
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-rows: 10% 90%;
+    height: 100vh;
+    width: 100vw;
     background-color: #000000;
-    height: 98vh;
+}
+
+.top-view {
+    grid-column: 1;
+    grid-row: 1 / 2;
+    height: 10vh;
     padding: 1vh 1vw;
     margin: 0;
-    width: 98vw;
+    overflow: hidden;
+    text-align: left;
+}
+
+.bottom-view {
+    height: 88vh;
+    padding: 1vh 1vw;
+    margin: 0;
 }
 
 html, body {
