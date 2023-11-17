@@ -19,7 +19,7 @@
 .top-view {
     grid-column: 1;
     grid-row: 1 / 2;
-    height: 10vh;
+    height: 100%;
     padding: 1vh 1vw;
     margin: 0;
     overflow: hidden;
