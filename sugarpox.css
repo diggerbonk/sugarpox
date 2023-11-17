@@ -21,6 +21,7 @@
 .top-view {
     grid-column: 1;
     grid-row: 1 / 2;
+    height: 100%;
     padding: 0;
     margin: 0;
 }
