@@ -31,6 +31,7 @@
     height: 86vh;
     padding: 0vh 0vw;
     margin: 0;
+    overflow: clip;
 }
 
 html, body {
