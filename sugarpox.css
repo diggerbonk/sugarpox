@@ -49,23 +49,23 @@ html, body {
     font-size: 1.6rem;
 }
 
-a {
-    text-decoration: none;
-}
+#ja {
+#    text-decoration: none;
+#}
 
-a.link {
+a:link {
     color: #ffe700;
 }
 
-a.visited {
+a:visited {
     color: #ffd700;
 }
 
-a.hover {
+a:hover {
     color: #a2ff00;
 }
 
-a.active {
+a:active {
     color: #ffae00;
 }
 
