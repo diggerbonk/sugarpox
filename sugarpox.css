@@ -1,9 +1,9 @@
 .center {
-  padding: 5% 5%;
+  padding: 1vh 1vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  width: 98vw;;
 }
 
 .full-view {
