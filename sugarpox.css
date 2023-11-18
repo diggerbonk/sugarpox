@@ -21,7 +21,7 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: minmax(1.5em, 1.6em) 1fr;
-    height: 96vh;
+#    height: 96vh;
     width: 96vw;
     background-color: #000000;
     overflow: clip;
@@ -39,7 +39,7 @@
     border-top: dotted;
     grid-column: 1;
     grid-row: 2 / 2;
-    height: 1fr;
+#    height: 1fr;
     margin: 0;
     padding: 0;
 }
