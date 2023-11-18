@@ -51,5 +51,21 @@ html, body {
 
 a {
     text-decoration: none;
+}
+
+a:link {
     color: #ffe700;
 }
+
+a:visited {
+    color: #ffd700;
+}
+
+a:hover {
+    color: #a2ff00;
+}
+
+a:active {
+    color: #ffae00;
+}
+
