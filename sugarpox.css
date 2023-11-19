@@ -12,7 +12,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 88vw;
-  font-size: 1rem; 
+  font-size: 1.1rem; 
   font-family: typewriter, courier, monospace;
 }
 
@@ -25,7 +25,6 @@
 #    height: 96vh;
     width: 96vw;
     background-color: #000000;
-    overflow: clip;
 }
 
 .top-view {
