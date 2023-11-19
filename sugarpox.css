@@ -22,9 +22,9 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: minmax(1.5em, 1.6em) 1fr;
+    background-color: #000000;
 #    height: 96vh;
 #    width: 96vw;
-    background-color: #000000;
 }
 
 .top-view {
