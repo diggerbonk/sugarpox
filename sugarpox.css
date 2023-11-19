@@ -30,12 +30,6 @@
     grid-row: 1 / 2;
     padding: 0;
     margin: 0;
-    text-align: center;
-    display: flex;
-}
-
-.top-view span {
-  align-self: flex-end;
 }
 
 .bottom-view {
