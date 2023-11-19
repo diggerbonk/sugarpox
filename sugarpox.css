@@ -23,7 +23,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: minmax(1.5em, 1.6em) 1fr;
 #    height: 96vh;
-    width: 96vw;
+#    width: 96vw;
     background-color: #000000;
 }
 
