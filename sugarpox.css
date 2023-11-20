@@ -64,25 +64,21 @@ html, body {
 
 a:link {
     text-decoration: none;
-    font-weight: bold;
     color: #ffd023;
 }
 
 a:visited {
     text-decoration: none;
-    font-weight: bold;
     color: #ffd023;
 }
 
 a:hover {
     text-decoration: none;
-    font-weight: bold;
     color: #dd00ff;
 }
 
 a:active {
     text-decoration: none;
-    font-weight: bold;
     color: #dd00ff;
 }
 
