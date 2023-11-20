@@ -1,7 +1,7 @@
 a.menulink {
     margin: 0;
     padding: 0vh .5rem;
-    font-size: 2.5em;
+    font-size: 2rem;
     font-family: pippahw;
 }
 
@@ -19,7 +19,7 @@ a.menulink {
   margin-left: auto;
   margin-right: auto;
   width: 88vw;
-  font-size: 1.5em; 
+  font-size: 1.5rem; 
   font-family: courier, monospace;
 }
 
@@ -28,7 +28,7 @@ a.menulink {
     margin: 0;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(2.4em, 2.6em) 1fr;
+    grid-template-rows: minmax(1.9rem, 2.1rem) 1fr;
     background-color: #000000;
 }
 
