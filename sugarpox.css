@@ -28,7 +28,7 @@ a.menulink {
     margin: 0;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(1.7em, 2.1em) 1fr;
+    grid-template-rows: minmax(2.4em, 2.6em) 1fr;
     background-color: #000000;
 }
 
