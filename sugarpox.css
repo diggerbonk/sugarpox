@@ -2,7 +2,7 @@ a.menulink {
     margin: 0;
     padding: 0vh .5rem;
     font-size: 2.5em;
-    font-family: sugarpox;
+    font-family: pippahw;
 }
 
 .center {
@@ -51,8 +51,8 @@ a.menulink {
 }
 
 @font-face {
-    font-family: sugarpox;
-    src: url(sugarpox.ttf);
+    font-family: pippahw;
+    src: url(pippahw.ttf);
 }
 
 html, body {
