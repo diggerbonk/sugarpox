@@ -29,7 +29,7 @@ a.menulink {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: minmax(1.9rem, 2.1rem) 1fr;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 .top-view {
@@ -56,8 +56,9 @@ a.menulink {
 }
 
 html, body {
-    background-color: #000000;
-    color: #ffd023;
+    background-color: #ffffff;
+#    color: #ffd023;
+    color: #000000;
     margin: 0;
     padding: 0;
     font-family: Courier;
@@ -66,21 +67,25 @@ html, body {
 
 a:link {
     text-decoration: none;
-    color: #ffd023;
+#    color: #ffd023;
+    color: #000000;
 }
 
 a:visited {
     text-decoration: none;
-    color: #ffd023;
+#    color: #ffd023;
+    color: #000000;
 }
 
 a:hover {
     text-decoration: none;
-    color: #dd00ff;
+#    color: #dd00ff;
+    color: #222222;
 }
 
 a:active {
     text-decoration: none;
-    color: #dd00ff;
+#    color: #dd00ff;
+    color: #222222;
 }
 
