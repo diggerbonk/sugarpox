@@ -55,7 +55,7 @@ a.menulink {
 
 html, body {
     background-color: #000000;
-    color: #ffe700;
+    color: #fecf22;
     margin: 0;
     padding: 0;
     font-family: sugarpox, Verdana, Arial, sand-serif;
@@ -64,12 +64,12 @@ html, body {
 
 a:link {
     text-decoration: none;
-    color: #ffe700;
+    color: #fecf22;
 }
 
 a:visited {
     text-decoration: none;
-    color: #ffe700;
+    color: #fecf22;
 }
 
 a:hover {
