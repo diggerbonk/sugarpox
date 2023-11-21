@@ -13,6 +13,16 @@ a.menulink {
   height: 90vh;
 }
 
+.cover {
+  padding: 2vh 2vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.6rem;
+  max-height: 88vh;
+  font-family: courier, monospace;
+}
+
 .about {
   padding: 2vh 2vw;
   display: block;
