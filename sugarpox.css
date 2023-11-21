@@ -20,6 +20,7 @@ a.menulink {
   margin-right: auto;
   font-size: 1.6rem;
   max-height: 88vh;
+  max-width: 88vw;
   font-family: courier, monospace;
 }
 
