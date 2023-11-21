@@ -24,6 +24,16 @@ a.menulink {
   font-family: courier, monospace;
 }
 
+.bio {
+  padding: 2vh 2vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 88vw;
+  font-size: 2.0rem;
+  font-family: courier, monospace;
+}
+
 .about {
   padding: 2vh 2vw;
   display: block;
