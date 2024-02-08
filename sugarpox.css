@@ -76,7 +76,7 @@ a.menulink {
 .bottom-view {
     border-top: dotted;
     grid-column: 1;
-    grid-row: 2 / 2;
+    grid-row: 3 / 3;
     margin: 0;
     padding: 0;
 }
