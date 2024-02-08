@@ -49,7 +49,7 @@ a.menulink {
     margin: 0;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(3.5rem, 4.0rem) 1fr;
+    grid-template-rows: minmax(3.5rem, 4.0rem) 1fr 1fr;
     background-color: #ffffff;
 }
 
