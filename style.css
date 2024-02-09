@@ -9,7 +9,7 @@ body{
     padding:0px 5px;
     font-size: 3rem;
     font-family: "rough_typewriter";
-    color:#444
+    color:#444;
 }
 
 .logo {
@@ -28,6 +28,7 @@ hr{
 }
 
 .middle-view {
+    background-color: grey;
     padding: .5rem 0;
     font-size: 2.0rem;
 #    white-space: pre-wrap;
