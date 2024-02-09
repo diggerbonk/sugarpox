@@ -21,14 +21,11 @@ hr{
 .top-view {
     padding: .5rem 0;
     font-size: 2rem;
-    font-weight: bold;
 }
 
 .middle-view {
     padding: .5rem 0;
     font-size: 2.0rem;
-    font-weight: bold;
-#    font-family: monospace;
 #    white-space: pre-wrap;
 }
 
