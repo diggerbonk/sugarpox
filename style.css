@@ -1,9 +1,14 @@
+@font-face {
+    font-family: rough_typewriter;
+    src: url(rough_typewriter.otf);
+}
+
 body{
     max-width:650px;
     margin: 0px auto;
     padding:0px 10px;
     font-size: 3rem;
-    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "rough_typewriter";
     color:#444
 }
 
