@@ -44,7 +44,7 @@ hr{
 
 .about {
   padding: 2vh 2vw;
-  display: block;
+#  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 88vw;
