@@ -12,6 +12,10 @@ body{
     color:#444
 }
 
+.logo {
+    width: 80%;
+}
+
 hr{
     margin: 0px 0px;
     padding: 0px 0px;
