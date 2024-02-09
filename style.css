@@ -38,6 +38,12 @@ hr{
 #    white-space: pre-wrap;
 }
 
+a.menulink {
+    margin: 0;
+    padding: 0vh .7rem;
+    font-size: 2rem;
+}
+
 h1 {
     font-size: 1.5rem;
 }
