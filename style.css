@@ -38,8 +38,7 @@ hr{
 .bottom-view {
     padding: .5rem 0;
     font-size: 1.8rem;
-#    font-family: monospace;
-    white-space: pre-wrap;
+    overflow-wrap: break-word;
 }
 
 .about {
