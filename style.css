@@ -42,6 +42,15 @@ hr{
 #    white-space: pre-wrap;
 }
 
+.about {
+  padding: 2vh 2vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 88vw;
+  font-size: 1.6rem;
+}
+
 a.menulink {
     margin: 0;
     padding: 0vh .7rem;
