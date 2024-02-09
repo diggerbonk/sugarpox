@@ -3,6 +3,10 @@
     src: url(rough_typewriter.otf);
 }
 
+html {
+	overflow: scroll;
+}
+
 body{
     max-width:800px;
     margin: 0px auto;
