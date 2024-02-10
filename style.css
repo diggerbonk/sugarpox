@@ -45,15 +45,12 @@ hr{
     overflow-wrap: break-word;
 }
 
-.menulink a:link {
+a.menulink {
     margin: 0;
     padding: 0vh .7rem;
     font-size: 2rem;
     color: black;
     text-decoration: none;
-}
-.menulink a:hover {
-    color: red;
 }
 
 h1 {
