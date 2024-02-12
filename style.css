@@ -5,7 +5,7 @@
 
 html {
     overflow: scroll;
-    background-color: #eee;
+    #background-color: #eee;
 }
 
 body {
@@ -32,8 +32,8 @@ hr {
     grid-gap: 0;
     grid-template-columns: 100%;
     grid-template-rows: auto auto auto;
-    background-color: #fff;
-    color: #444;
+    #background-color: #fff;
+    #color: #444;
 }
 
 .title {
