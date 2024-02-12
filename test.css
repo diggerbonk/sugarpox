@@ -16,7 +16,6 @@ body {
 
 .logo {
     width: 75%;
-    margin: auto;
 }
 
 hr {
@@ -38,7 +37,6 @@ hr {
 }
 
 .title {
-    margin: auto;
     justify-self: center;
     grid-column: 1; 
     grid-row: 1 ;
@@ -59,7 +57,7 @@ hr {
 }
 
 .content {
-    justify-self: left;
+    justify-self: center;
     grid-column: 1;
     grid-row: 3;
     padding: 1vh 1vh 0vh 1vh;
