@@ -37,6 +37,7 @@ hr {
 }
 
 .title {
+    margin: auto;
     justify-self: center;
     grid-column: 1; 
     grid-row: 1 ;
