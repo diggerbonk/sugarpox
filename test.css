@@ -43,6 +43,8 @@ hr {
 }
 
 .menu {
+    border-top-style: dashed;
+    border-bottom-style: dashed;
     grid-column: 1;
     grid-row: 2;
     background-color: white;
@@ -55,7 +57,7 @@ hr {
 .content {
     grid-column: 1;
     grid-row: 3;
-    padding: 0 0 0 0;
+    padding: 1vh 1vh 0vh 1vh;
     font-size: 1.8rem;
     overflow-wrap: break-word;
 }
