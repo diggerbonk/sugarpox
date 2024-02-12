@@ -55,6 +55,7 @@ hr {
 }
 
 .content {
+    justify-self: left;
     grid-column: 1;
     grid-row: 3;
     padding: 1vh 1vh 0vh 1vh;
