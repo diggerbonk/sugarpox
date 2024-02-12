@@ -39,6 +39,14 @@ hr{
 #    white-space: pre-wrap;
 }
 
+.middle-left {
+	float: left;
+}
+
+.middle-right {
+	float: right;
+}
+
 .bottom-view {
     padding: .5rem 0;
     font-size: 1.8rem;
