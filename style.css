@@ -12,6 +12,7 @@ body {
     font-family: "rough_typewriter";
     display: flex;
     justify-content: center;
+    background-color: white;
 }
 
 .logo {
